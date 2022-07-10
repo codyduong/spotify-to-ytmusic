@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@codyduong/ytmusicapi": "^0.4.6",
+    "dotenv": "^16.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}

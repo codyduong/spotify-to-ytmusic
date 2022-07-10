@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2018"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "exclude": ["node_modules"]
+}
