@@ -1,4 +1,13 @@
 {
+  "name": "@codyduong/spotify-to-ytmusic",
+  "description": "A demonstration of @codyduong/ytmusicapiJS",
+  "author": "Cody Duong",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "transfer": "node index.js"
+  },
+  "main": "index.js",
   "dependencies": {
     "@codyduong/ytmusicapi": "^0.4.6",
     "dotenv": "^16.0.1",

@@ -14,10 +14,10 @@ Just as a disclaimer, I have provided this code as an example. I can't gurantee 
 2. Setup a spotify app at https://developer.spotify.com/my-applications
 3. Create an .env with `cp .env-EXAMPLE .env`
     * Replace the necessary variables, in order to get ytmusic credentials follow instructions here: https://github.com/codyduong/ytmusicapiJS
-4. Run transfer.js
+4. Run index.js
 ```bash
 # Either run it directly with node
-node transfer.js
+node index.js
 # OR through package.json and your package manager
 npm transfer
 # OR
